@@ -1,0 +1,291 @@
+habitaciones,baños,parqueaderos,area_construida,area_privada,estrato,estado,antiguedad,administracion,precio_m2,Ascensor,Circuito cerrado de TV,Parqueadero Visitantes,Portería / Recepción,Zonas Verdes,Salón Comunal,Balcón,Barra estilo americano,Calentador,Chimenea,Citófono,Cocina Integral,Terraza,Vigilancia,Parques cercanos,Estudio,Patio,Depósito / Bodega,nombre,ubicacion,precio
+3,2,1,73 m²,73 m²,2,No definida,9 a 15 años,$ 172.300 COP,"$ 4.109.589,04*m²",1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,Apartamento,Nuevo Techo,300000000
+2,3,1,85 m²,93 m²,5,No definida,16 a 30 años,$ 410.000 COP,"$ 4.470.588,24*m²",0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,Apartamento,Maria cristina,380000000
+3,2,1,80 m²,0 m²,4,No definida,9 a 15 años,No definida,$ 4.987.500*m²,1,1,0,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,Apartamento,Mazuren,399000000
+3,2,0,52 m²,48 m²,2,No definida,1 a 8 años,$ 100.000 COP,"$ 3.076.923,08*m²",0,0,1,1,1,1,0,0,1,0,0,0,0,1,0,0,0,0,Apartamento,Parque Empresarial La Estancia,160000000
+8,6,3,350 m²,253 m²,4,Bueno,16 a 30 años,No definida,"$ 3.854.285,71*m²",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,Casa,Quinta camacho,1349000000
+4,4,2,267 m²,267 m²,4,No definida,más de 30 años,$ 215.000 COP,"$ 3.707.865,17*m²",0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1,1,0,Casa,Cedro Golf,990000000
+3,2,2,102 m²,98 m²,5,Remodelado,más de 30 años,$ 387.000 COP,"$ 3.725.490,2*m²",0,1,1,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,Apartamento,Niza,380000000
+3,2,1,62 m²,0 m²,3,No definida,1 a 8 años,No definida,"$ 4.596.774,19*m²",1,1,1,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,Apartamento,Nueva Castilla,285000000
+3,3,2,180 m²,0 m²,6,No definida,No definida,No definida,"$ 6.388.888,89*m²",1,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,Apartamento,DESCONOCIDO,1150000000
+10,7,4,425 m²,425 m²,3,No definida,16 a 30 años,No definida,"$ 2.023.529,41*m²",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Casa,Boyaca Real,860000000
+3,3,2,200 m²,0 m²,5,No definida,No definida,No definida,$ 5.500.000*m²,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Apartamento,DESCONOCIDO,1100000000
+3,1,0,48 m²,48 m²,2,Excelente,1 a 8 años,$ 60.000 COP,"$ 3.395.833,33*m²",0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,Apartamento,Bosa La Libertad,163000000
+5,4,2,980 m²,980 m²,4,No definida,más de 30 años,No definida,"$ 2.193.877,55*m²",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Casa,La Candelaria,2150000000
+3,2,1,70 m²,70 m²,4,No definida,16 a 30 años,$ 275.000 COP,"$ 4.428.571,43*m²",0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,Apartamento,Usaquén,310000000
+4,3,2,94 m²,116 m²,4,Excelente,16 a 30 años,$ 480.000 COP,"$ 4.202.127,66*m²",0,1,1,1,0,1,0,0,1,0,1,1,0,0,0,1,0,0,Casa,Santa helena,395000000
+4,6,4,342 m²,252 m²,6,Excelente,16 a 30 años,No definida,"$ 4.941.520,47*m²",1,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,Apartamento,Unicentro Bogotá,1690000000
+3,3,2,145 m²,145 m²,6,Bueno,16 a 30 años,$ 1.000.000 COP,"$ 6.758.620,69*m²",1,0,0,1,0,0,0,1,1,0,1,1,1,1,0,0,0,1,Apartamento,Chicó,980000000
+4,3,2,151 m²,151 m²,4,No definida,más de 30 años,$ 700.000 COP,"$ 3.642.384,11*m²",0,1,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,Casa,Cedritos,550000000
+3,2,1,60 m²,"59,7 m²",3,Excelente,9 a 15 años,$ 165.000 COP,"$ 3.833.333,33*m²",1,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,Apartamento,Nuevo Techo,230000000
+2,2,2,132 m²,82 m²,4,No definida,1 a 8 años,$ 350.000 COP,"$ 5.265.151,52*m²",1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,Apartamento,Cedritos,695000000
+2,2,1,"101,4 m²","101,4 m²",5,No definida,16 a 30 años,$ 216.000 COP,"$ 4.733.727,81*m²",0,0,1,1,0,1,0,0,1,1,1,1,0,0,0,1,0,0,Apartamento,Pasadena,480000000
+3,2,0,123 m²,123 m²,3,No definida,9 a 15 años,No definida,"$ 3.658.536,59*m²",0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,Casa,Engativá,450000000
+1,2,1,68 m²,68 m²,5,No definida,9 a 15 años,$ 368.000 COP,"$ 5.588.235,29*m²",1,1,1,1,0,0,1,0,1,0,1,1,0,1,0,0,0,1,Apartamento,Santa barbara,380000000
+3,2,2,603 m²,0 m²,6,No definida,No definida,No definida,"$ 4.892.205,64*m²",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,Apartamento,SANTA BARBARA,2950000000
+3,2,2,87 m²,87 m²,6,Excelente,16 a 30 años,$ 457.000 COP,"$ 5.402.298,85*m²",1,1,1,1,0,0,0,0,1,0,1,1,0,0,0,1,0,0,Apartamento,Santa barbara,470000000
+3,2,1,78 m²,69 m²,4,Excelente,1 a 8 años,$ 320.000 COP,"$ 7.051.282,05*m²",1,1,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,Apartamento,Caobos salazar,550000000
+2,1,0,43 m²,0 m²,3,No definida,No definida,$ 125.000 COP,"$ 4.883.720,93*m²",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Apartamento,Corredor ferreo del sur,210000000
+1,2,1,64 m²,0 m²,5,No definida,1 a 8 años,$ 499.000 COP,$ 6.015.625*m²,1,1,1,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,Apartamento,Country club,385000000
+3,2,0,"60,2 m²","60,2 m²",3,No definida,más de 30 años,No definida,"$ 3.189.368,77*m²",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,Apartamento,Jardin del norte,192000000
+5,4,2,980 m²,980 m²,4,No definida,más de 30 años,No definida,"$ 2.193.877,55*m²",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Casa,La Candelaria,2150000000
+4,3,2,151 m²,151 m²,4,No definida,más de 30 años,$ 700.000 COP,"$ 3.642.384,11*m²",0,1,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,Casa,Cedritos,550000000
+3,2,2,603 m²,0 m²,6,No definida,No definida,No definida,"$ 4.892.205,64*m²",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,Apartamento,SANTA BARBARA,2950000000
+3,2,2,87 m²,87 m²,6,Excelente,16 a 30 años,$ 457.000 COP,"$ 5.402.298,85*m²",1,1,1,1,0,0,0,0,1,0,1,1,0,0,0,1,0,0,Apartamento,Santa barbara,470000000
+3,3,2,200 m²,0 m²,5,No definida,No definida,No definida,$ 5.500.000*m²,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Apartamento,DESCONOCIDO,1100000000
+3,3,1,88 m²,120 m²,4,No definida,más de 30 años,$ 350.000 COP,"$ 6.818.181,82*m²",0,0,0,0,0,1,0,0,1,1,1,1,0,1,0,0,0,0,Casa,Cedritos,600000000
+10,7,4,425 m²,425 m²,3,No definida,16 a 30 años,No definida,"$ 2.023.529,41*m²",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Casa,Boyaca Real,860000000
+3,2,0,123 m²,123 m²,3,No definida,9 a 15 años,No definida,"$ 3.658.536,59*m²",0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,Casa,Engativá,450000000
+3,2,2,102 m²,98 m²,5,Remodelado,más de 30 años,$ 387.000 COP,"$ 3.725.490,2*m²",0,1,1,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,Apartamento,Niza,380000000
+2,2,1,"101,4 m²","101,4 m²",5,No definida,16 a 30 años,$ 216.000 COP,"$ 4.733.727,81*m²",0,0,1,1,0,1,0,0,1,1,1,1,0,0,0,1,0,0,Apartamento,Pasadena,480000000
+3,1,0,48 m²,48 m²,2,Excelente,1 a 8 años,$ 60.000 COP,"$ 3.395.833,33*m²",0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,Apartamento,Bosa La Libertad,163000000
+4,4,2,267 m²,267 m²,4,No definida,más de 30 años,$ 215.000 COP,"$ 3.707.865,17*m²",0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1,1,0,Casa,Cedro Golf,990000000
+3,3,2,180 m²,0 m²,6,No definida,No definida,No definida,"$ 6.388.888,89*m²",1,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,Apartamento,DESCONOCIDO,1150000000
+3,2,1,60 m²,"59,7 m²",3,Excelente,9 a 15 años,$ 165.000 COP,"$ 3.833.333,33*m²",1,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,Apartamento,Nuevo Techo,230000000
+8,6,3,350 m²,253 m²,4,Bueno,16 a 30 años,No definida,"$ 3.854.285,71*m²",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,Casa,Quinta camacho,1349000000
+3,2,1,70 m²,70 m²,4,No definida,16 a 30 años,$ 275.000 COP,"$ 4.428.571,43*m²",0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,Apartamento,Usaquén,310000000
+1,2,1,68 m²,68 m²,5,No definida,9 a 15 años,$ 368.000 COP,"$ 5.588.235,29*m²",1,1,1,1,0,0,1,0,1,0,1,1,0,1,0,0,0,1,Apartamento,Santa barbara,380000000
+3,3,2,145 m²,145 m²,6,Bueno,16 a 30 años,$ 1.000.000 COP,"$ 6.758.620,69*m²",1,0,0,1,0,0,0,1,1,0,1,1,1,1,0,0,0,1,Apartamento,Chicó,980000000
+2,2,2,132 m²,82 m²,4,No definida,1 a 8 años,$ 350.000 COP,"$ 5.265.151,52*m²",1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,Apartamento,Cedritos,695000000
+4,3,2,94 m²,116 m²,4,Excelente,16 a 30 años,$ 480.000 COP,"$ 4.202.127,66*m²",0,1,1,1,0,1,0,0,1,0,1,1,0,0,0,1,0,0,Casa,Santa helena,395000000
+4,6,4,342 m²,252 m²,6,Excelente,16 a 30 años,No definida,"$ 4.941.520,47*m²",1,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,Apartamento,Unicentro Bogotá,1690000000
+1,1,1,40 m²,0 m²,4,Excelente,1 a 8 años,$ 400.000 COP,$ 9.525.000*m²,1,1,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,Apartamento,Alcazares,381000000
+3,3,0,106 m²,106 m²,3,Bueno,16 a 30 años,$ 1 COP,"$ 2.452.830,19*m²",0,0,0,0,1,0,0,0,0,1,0,1,1,1,0,0,1,0,Casa,Gran granada,260000000
+2,2,0,67 m²,0 m²,4,Excelente,16 a 30 años,$ 391.000 COP,"$ 6.014.925,37*m²",1,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,Apartamento,La salle,403000000
+3,2,1,64 m²,64 m²,4,No definida,16 a 30 años,$ 196.000 COP,$ 4.843.750*m²,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,Apartamento,Puerta de teja,310000000
+4,4,3,245 m²,240 m²,5,Bueno,16 a 30 años,$ 450.000 COP,"$ 4.040.816,33*m²",0,0,1,0,0,0,1,0,1,1,0,1,1,1,0,0,0,0,Casa,La Calleja,990000000
+3,1,2,143 m²,135 m²,3,No definida,más de 30 años,No definida,"$ 3.845.454,55*m²",0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,Casa,Engativá,549900000
+4,3,1,114 m²,114 m²,4,Excelente,más de 30 años,$ 600.000 COP,"$ 4.122.807,02*m²",0,0,1,1,0,1,0,1,1,0,1,1,0,1,0,1,0,1,Apartamento,Niza Cordoba,470000000
+3,2,2,102 m²,98 m²,5,Remodelado,más de 30 años,$ 387.000 COP,"$ 3.725.490,2*m²",0,1,1,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,Apartamento,Niza,380000000
+4,4,4,207 m²,207 m²,6,Bueno,más de 30 años,$ 1.837.000 COP,"$ 9.661.835,75*m²",0,0,1,0,0,1,0,0,1,1,1,1,1,0,0,0,0,1,Apartamento,chico,2000000000
+3,3,1,150 m²,0 m²,6,No definida,más de 30 años,$ 690.000 COP,"$ 6.533.333,33*m²",1,1,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,Apartamento,El Retiro,980000000
+3,3,2,133 m²,124 m²,5,No definida,16 a 30 años,$ 530.000 COP,"$ 5.451.127,82*m²",1,1,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,Apartamento,Colina Campestre,725000000
+3,5,4,192 m²,192 m²,5,Bueno,16 a 30 años,$ 1.650.000 COP,"$ 4.635.416,67*m²",1,0,1,0,0,1,1,0,1,1,0,1,0,0,0,0,0,1,Apartamento,Santa barbara,890000000
+3,4,2,134 m²,107 m²,5,Excelente,9 a 15 años,$ 570.000 COP,"$ 5.343.283,58*m²",1,1,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,Apartamento,Colina Campestre,716000000
+4,6,4,342 m²,252 m²,6,Excelente,16 a 30 años,No definida,"$ 4.941.520,47*m²",1,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,Apartamento,Unicentro Bogotá,1690000000
+3,3,2,116 m²,102 m²,4,No definida,16 a 30 años,$ 600.000 COP,"$ 5.431.034,48*m²",1,1,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,Apartamento,Bella Suiza,630000000
+3,2,1,69 m²,0 m²,4,No definida,16 a 30 años,$ 315.000 COP,"$ 6.202.898,55*m²",1,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,Apartamento,Ciudad salitre,428000000
+3,2,1,58 m²,51 m²,4,No definida,No definida,$ 220.000 COP,"$ 5.172.413,79*m²",1,0,0,0,0,1,0,0,1,0,1,1,0,1,0,0,0,1,Apartamento,Cantalejo,300000000
+2,2,1,75 m²,75 m²,6,Bueno,más de 30 años,$ 564.000 COP,"$ 7.866.666,67*m²",1,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,Apartamento,El Virrey,590000000
+3,3,2,145 m²,145 m²,6,Bueno,16 a 30 años,$ 1.000.000 COP,"$ 6.758.620,69*m²",1,0,0,1,0,0,0,1,1,0,1,1,1,1,0,0,0,1,Apartamento,Chicó,980000000
+1,2,1,60 m²,50 m²,5,Excelente,1 a 8 años,$ 315.000 COP,$ 7.000.000*m²,1,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,Apartamento,Bosque de pinos,420000000
+3,2,1,60 m²,"59,7 m²",3,Excelente,9 a 15 años,$ 165.000 COP,"$ 3.833.333,33*m²",1,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,Apartamento,Nuevo Techo,230000000
+3,3,2,178 m²,178 m²,6,Bueno,más de 30 años,$ 1.256.000 COP,"$ 6.460.674,16*m²",1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0,1,Apartamento,Chicó Norte,1150000000
+4,4,3,284 m²,284 m²,6,Bueno,16 a 30 años,$ 1.600.000 COP,"$ 6.866.197,18*m²",1,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,Apartamento,La Carolina,1950000000
+3,2,1,85 m²,85 m²,5,Bueno,9 a 15 años,$ 515.000 COP,"$ 8.823.529,41*m²",1,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,Apartamento,Ciudad Salitre,750000000
+3,2,1,70 m²,70 m²,4,Bueno,1 a 8 años,$ 260.000 COP,"$ 6.285.714,29*m²",1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,Apartamento,Cantalejo,440000000
+3,4,3,222 m²,202 m²,6,No definida,9 a 15 años,$ 1.300.000 COP,"$ 6.081.081,08*m²",1,1,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,Apartamento,Colina Campestre,1350000000
+4,3,2,94 m²,116 m²,4,Excelente,16 a 30 años,$ 480.000 COP,"$ 4.202.127,66*m²",0,1,1,1,0,1,0,0,1,0,1,1,0,0,0,1,0,0,Casa,Santa helena,395000000
+2,2,1,60 m²,60 m²,4,No definida,16 a 30 años,$ 550.000 COP,$ 5.750.000*m²,1,1,0,1,0,0,0,0,0,1,1,0,0,1,1,0,0,1,Apartamento,Cedritos,345000000
+3,4,3,186 m²,168 m²,5,No definida,16 a 30 años,$ 1.100.000 COP,"$ 6.881.720,43*m²",1,1,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,Apartamento,Centro Comercial Palatino,1280000000
+8,6,3,350 m²,253 m²,4,Bueno,16 a 30 años,No definida,"$ 3.854.285,71*m²",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,Casa,Quinta camacho,1349000000
+4,3,4,145 m²,112 m²,4,No definida,9 a 15 años,No definida,"$ 5.551.724,14*m²",0,1,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,Casa,Modelia,805000000
+3,3,3,"100,2 m²",0 m²,5,No definida,16 a 30 años,$ 550.000 COP,"$ 5.688.622,75*m²",1,1,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,Apartamento,Calleja Baja,570000000
+4,4,1,"116,49 m²","119,74 m²",4,No definida,más de 30 años,$ 229.000 COP,"$ 4.120.525,37*m²",0,0,0,0,1,0,1,0,1,1,1,1,0,0,0,0,0,1,Apartamento,Polo club,480000000
+4,3,2,100 m²,100 m²,4,No definida,9 a 15 años,$ 500.000 COP,$ 6.690.000*m²,1,1,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,Apartamento,Ciudad salitre,669000000
+3,2,2,64 m²,64 m²,4,No definida,9 a 15 años,$ 300.000 COP,$ 6.093.750*m²,1,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,Apartamento,Portales del norte,390000000
+3,2,1,"83,58 m²","78,28 m²",4,No definida,más de 30 años,$ 500.000 COP,"$ 5.144.771,48*m²",0,1,1,1,0,1,1,0,1,0,1,1,0,0,0,0,0,0,Apartamento,Cedritos,430000000
+3,5,3,318 m²,298 m²,6,Excelente,16 a 30 años,$ 2.045.000 COP,"$ 7.704.402,52*m²",1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,Apartamento,Bosque de pinos,2450000000
+2,2,2,96 m²,96 m²,6,Excelente,16 a 30 años,$ 600.000 COP,$ 6.406.250*m²,1,1,1,1,0,0,1,0,1,0,1,1,0,0,0,0,0,0,Apartamento,Los Rosales,615000000
+3,2,1,63 m²,60 m²,4,Excelente,9 a 15 años,$ 238.000 COP,"$ 4.125.396,83*m²",1,1,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,Apartamento,Suba Salitre,259900000
+2,2,2,191 m²,191 m²,6,Excelente,16 a 30 años,No definida,"$ 6.020.942,41*m²",1,1,0,1,0,0,0,0,1,0,1,1,0,1,0,1,0,1,Apartamento,El refugio,1150000000
+1,1,0,30 m²,30 m²,3,No definida,1 a 8 años,$ 150.300 COP,"$ 6.266.666,67*m²",1,1,1,1,0,0,0,1,0,0,1,1,0,0,0,0,0,1,Apartamento,La Candelaria,188000000
+3,2,1,57 m²,57 m²,4,No definida,16 a 30 años,$ 235.000 COP,"$ 5.228.070,18*m²",0,1,0,1,0,1,0,0,1,0,1,1,0,1,0,0,0,0,Apartamento,Santa rosa,298000000
+3,4,2,199 m²,199 m²,6,Bueno,más de 30 años,$ 944.300 COP,"$ 7.537.688,44*m²",1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0,1,Apartamento,cHICO,1500000000
+6,3,0,198 m²,198 m²,3,No definida,No definida,No definida,"$ 2.575.757,58*m²",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,Casa,Giralda,510000000
+2,2,2,90 m²,90 m²,6,Bueno,9 a 15 años,$ 840.000 COP,"$ 6.111.111,11*m²",1,0,1,0,0,1,0,0,1,1,1,1,0,0,0,1,0,1,Apartamento,Bella Suiza,550000000
+2,2,2,80 m²,80 m²,4,No definida,16 a 30 años,$ 490.000 COP,$ 4.725.000*m²,1,1,0,1,0,0,0,0,0,1,1,1,0,1,0,1,0,1,Apartamento,Belmira,378000000
+2,3,2,86 m²,86 m²,6,Bueno,16 a 30 años,$ 648.000 COP,"$ 8.953.488,37*m²",1,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,Apartamento,San Patricio,770000000
+4,4,3,205 m²,205 m²,6,Excelente,más de 30 años,$ 1.201.000 COP,"$ 5.609.756,1*m²",1,1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,Apartamento,Chicó,1150000000
+2,2,2,55 m²,55 m²,5,No definida,16 a 30 años,$ 337.000 COP,"$ 5.818.181,82*m²",1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Apartamento,El Batán,320000000
+3,3,2,133 m²,124 m²,5,No definida,16 a 30 años,$ 530.000 COP,"$ 5.451.127,82*m²",1,1,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,Apartamento,Colina Campestre,725000000
+2,1,0,74 m²,69 m²,3,No definida,más de 30 años,$ 83.600 COP,"$ 2.824.324,32*m²",0,0,1,1,0,0,1,0,1,0,1,1,0,0,0,0,0,0,Apartamento,Timiza,209000000
+3,2,2,78 m²,0 m²,4,No definida,menor a 1 año,$ 309.000 COP,"$ 8.333.320,51*m²",1,0,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,Apartamento,Ciudad salitre,649999000
+3,2,1,120 m²,118 m²,6,Bueno,más de 30 años,$ 650.000 COP,"$ 4.416.666,67*m²",1,1,0,1,0,0,0,0,1,0,1,1,0,1,1,0,1,0,Apartamento,Chico norte,530000000
+1,2,1,49 m²,49 m²,4,Bueno,1 a 8 años,$ 172.500 COP,"$ 6.326.530,61*m²",1,0,1,0,0,1,0,0,1,0,1,1,0,0,0,0,0,1,Apartamento,Cedro Golf,310000000
+3,3,2,152 m²,152 m²,5,Excelente,1 a 8 años,No definida,$ 6.250.000*m²,1,1,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,Apartamento,Colina Campestre,950000000
+4,5,2,175 m²,172 m²,6,Bueno,más de 30 años,$ 998.000 COP,"$ 5.428.571,43*m²",0,1,0,0,0,0,1,0,1,1,1,0,1,1,0,0,0,0,Casa,Chicó Navarra,950000000
+3,2,2,112 m²,110 m²,6,Bueno,16 a 30 años,$ 845.000 COP,$ 5.625.000*m²,1,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,Apartamento,Julio florez,630000000
+4,3,2,221 m²,221 m²,5,Excelente,16 a 30 años,$ 604.000 COP,"$ 4.063.348,42*m²",1,1,1,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,Apartamento,La Castellana,898000000
+3,2,1,80 m²,79 m²,4,Excelente,más de 30 años,$ 200.000 COP,$ 3.687.500*m²,0,1,1,1,0,0,0,1,1,0,1,1,0,0,0,0,0,0,Apartamento,Minuto de Dios,295000000
+3,5,2,147 m²,147 m²,6,No definida,más de 30 años,$ 887.000 COP,"$ 6.054.421,77*m²",1,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,Apartamento,Recodo Del Country,890000000
+3,3,2,140 m²,128 m²,5,No definida,16 a 30 años,$ 626.300 COP,"$ 6.428.571,43*m²",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,Apartamento,Country club,900000000
+3,2,1,65 m²,65 m²,3,No definida,9 a 15 años,$ 170.000 COP,"$ 3.846.153,85*m²",0,0,1,1,0,1,1,0,1,0,1,1,0,1,0,0,0,0,Apartamento,Centro engativa,250000000
+3,2,1,73 m²,73 m²,4,No definida,más de 30 años,$ 394.000 COP,"$ 4.178.082,19*m²",1,1,0,1,0,1,0,0,0,0,1,1,0,1,0,1,0,0,Apartamento,Cedritos,305000000
+2,2,1,60 m²,60 m²,4,No definida,menor a 1 año,No definida,"$ 7.666.666,67*m²",1,0,1,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,Apartamento,La felicidad,460000000
+2,1,1,35 m²,0 m²,2,No definida,menor a 1 año,No definida,"$ 4.285.714,29*m²",1,0,1,1,0,1,0,0,1,0,0,1,0,1,0,0,0,0,Apartamento,Las cruces,150000000
+3,2,1,87 m²,87 m²,4,Bueno,más de 30 años,$ 345.000 COP,"$ 6.321.839,08*m²",0,0,1,0,0,0,0,0,1,0,1,1,1,0,0,1,0,1,Apartamento,Ciudad Salitre,550000000
+2,2,1,91 m²,85 m²,5,Remodelado,16 a 30 años,$ 306.000 COP,"$ 4.065.934,07*m²",0,1,0,1,0,0,1,0,1,1,1,1,0,1,0,0,0,1,Apartamento,El Contador,370000000
+3,3,1,110 m²,110 m²,4,Bueno,16 a 30 años,$ 348.000 COP,"$ 5.636.363,64*m²",1,0,1,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0,Apartamento,Rafael Nuñez,620000000
+3,2,2,92 m²,83 m²,4,No definida,1 a 8 años,$ 350.000 COP,"$ 5.217.391,3*m²",1,1,1,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,Apartamento,Villas De Aranjuez,480000000
+3,2,0,"51,46 m²","45,87 m²",3,No definida,9 a 15 años,$ 160.000 COP,"$ 3.303.536,73*m²",0,0,1,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,Apartamento,Atlanta,170000000
+2,3,2,104 m²,128 m²,6,No definida,16 a 30 años,$ 686.500 COP,"$ 8.461.538,46*m²",1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,Apartamento,Chicó,880000000
+3,2,2,75 m²,73 m²,4,No definida,9 a 15 años,$ 350.000 COP,"$ 4.333.333,33*m²",1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,Apartamento,Tibabita,325000000
+4,2,1,75 m²,58 m²,3,No definida,1 a 8 años,$ 200.000 COP,"$ 4.666.666,67*m²",1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,1,Apartamento,Nuevo Techo,350000000
+3,2,1,75 m²,75 m²,3,No definida,9 a 15 años,$ 95.000 COP,"$ 2.933.333,33*m²",0,1,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,Casa,Fontanar del río,220000000
+3,2,1,112 m²,112 m²,4,Excelente,más de 30 años,$ 317.000 COP,"$ 4.285.714,29*m²",0,0,0,1,0,0,0,0,1,1,1,1,0,0,1,0,0,0,Apartamento,La Porciuncula,480000000
+2,3,2,98 m²,98 m²,6,No definida,1 a 8 años,$ 450.000 COP,"$ 8.469.387,76*m²",1,1,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,Apartamento,Santa Bárbara,830000000
+3,3,2,119 m²,102 m²,4,No definida,1 a 8 años,$ 350.000 COP,"$ 6.554.621,85*m²",1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,Apartamento,Colina Campestre,780000000
+4,3,3,330 m²,0 m²,5,No definida,más de 30 años,No definida,"$ 3.939.393,94*m²",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Casa,Malibu,1300000000
+7,1,0,140 m²,72 m²,3,No definida,más de 30 años,No definida,"$ 2.128.571,43*m²",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,Casa,Ciudad quirigua,298000000
+7,6,4,590 m²,580 m²,4,Bueno,más de 30 años,No definida,"$ 2.542.372,88*m²",0,0,1,0,0,0,1,0,1,1,1,0,1,0,0,0,0,0,Casa,Altos de Bella Suiza,1500000000
+3,2,1,58 m²,58 m²,3,Excelente,9 a 15 años,No definida,"$ 4.137.931,03*m²",1,1,1,1,1,1,0,0,1,0,0,1,0,1,0,0,0,0,Apartamento,Favidi,240000000
+4,3,4,145 m²,112 m²,4,No definida,9 a 15 años,No definida,"$ 5.551.724,14*m²",0,1,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,Casa,Modelia,805000000
+9,5,3,320 m²,320 m²,3,No definida,más de 30 años,No definida,$ 2.500.000*m²,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0,0,0,0,Casa,Puente Aranda,800000000
+17,6,3,272 m²,272 m²,4,Bueno,16 a 30 años,No definida,"$ 6.580.882,35*m²",0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,1,Casa,La Castellana,1790000000
+2,3,2,88 m²,76 m²,6,Excelente,1 a 8 años,$ 470.000 COP,$ 8.125.000*m²,1,0,1,1,0,1,1,0,1,1,1,0,0,1,0,1,0,1,Apartamento,San patricio,715000000
+1,1,1,45 m²,45 m²,4,Bueno,menor a 1 año,$ 602.000 COP,"$ 10.888.888,89*m²",1,0,1,0,0,1,0,0,1,0,1,1,0,0,0,0,0,1,Apartamento,Teusaquillo,490000000
+3,2,1,70 m²,0 m²,4,No definida,menor a 1 año,$ 280.000 COP,"$ 7.142.857,14*m²",1,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,Apartamento,La felicidad,500000000
+3,3,2,77 m²,73 m²,5,No definida,9 a 15 años,$ 477.500 COP,"$ 6.428.571,43*m²",0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,1,Apartamento,Pasadena,495000000
+5,4,2,194 m²,143 m²,4,No definida,más de 30 años,No definida,"$ 3.608.247,42*m²",0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,Casa,Normandía,700000000
+3,2,1,66 m²,66 m²,4,Bueno,1 a 8 años,$ 270.300 COP,"$ 4.484.848,48*m²",0,1,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,Apartamento,Gran Granada,296000000
+3,3,1,104 m²,104 m²,5,No definida,16 a 30 años,$ 380.000 COP,"$ 4.173.076,92*m²",0,0,1,1,0,1,0,0,1,0,1,1,0,1,0,0,0,1,Apartamento,Niza Cordoba,434000000
+2,2,2,"68,5 m²","67,5 m²",4,No definida,16 a 30 años,$ 305.000 COP,"$ 4.817.518,25*m²",0,0,1,1,1,1,0,0,0,0,1,1,1,1,0,0,0,1,Apartamento,Cedritos,330000000
+4,4,4,"296,2 m²","231,4 m²",3,No definida,más de 30 años,No definida,"$ 3.038.487,51*m²",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Casa,Chapinero,900000000
+2,2,0,63 m²,0 m²,4,No definida,más de 30 años,$ 397.000 COP,"$ 6.031.746,03*m²",1,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,Apartamento,Santa teresita,380000000
+3,2,1,75 m²,0 m²,4,No definida,1 a 8 años,$ 311.000 COP,$ 7.200.000*m²,1,1,1,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,Apartamento,Julio florez,540000000
+3,2,1,"68,4 m²",68 m²,3,Excelente,menor a 1 año,$ 80.000 COP,"$ 4.356.725,15*m²",0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,Apartamento,Los cerezos,298000000
+3,2,1,59 m²,59 m²,3,Excelente,menor a 1 año,$ 80.000 COP,"$ 4.830.508,47*m²",0,0,0,1,0,1,0,1,0,0,1,1,1,0,0,0,0,0,Apartamento,La granja,285000000
+5,3,2,320 m²,0 m²,3,No definida,más de 30 años,No definida,$ 3.062.500*m²,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,1,1,0,Casa,Milenta,980000000
+3,2,0,50 m²,50 m²,3,No definida,1 a 8 años,$ 125.000 COP,$ 4.200.000*m²,0,0,1,1,0,1,0,0,1,0,0,1,0,1,0,0,0,0,Apartamento,Centro engativa,210000000
+3,2,0,52 m²,49 m²,3,No definida,1 a 8 años,$ 110.000 COP,"$ 3.557.692,31*m²",0,0,1,1,0,1,0,0,1,0,0,1,0,1,0,0,0,0,Apartamento,Madelena iii y iv,185000000
+3,2,1,57 m²,0 m²,3,Excelente,16 a 30 años,$ 200.000 COP,"$ 3.684.210,53*m²",0,1,1,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,Apartamento,San Cipriano,210000000
+4,3,2,191 m²,191 m²,4,Excelente,16 a 30 años,No definida,"$ 4.282.722,51*m²",0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,0,0,0,Casa,Villa magdala,818000000
+2,3,2,88 m²,76 m²,6,Excelente,1 a 8 años,$ 470.000 COP,$ 8.125.000*m²,1,0,1,1,0,1,1,0,1,1,1,0,0,1,0,1,0,1,Apartamento,San patricio,715000000
+3,2,2,82 m²,78 m²,3,Excelente,menor a 1 año,$ 130.000 COP,"$ 4.747.073,17*m²",1,1,0,0,0,1,1,0,1,0,1,1,1,0,0,0,0,1,Apartamento,Florencia,389260000
+4,4,1,142 m²,129 m²,4,No definida,más de 30 años,$ 545.000 COP,"$ 4.577.464,79*m²",0,1,0,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,Casa,Cedritos,650000000
+4,2,2,166 m²,166 m²,3,Excelente,más de 30 años,No definida,"$ 2.945.783,13*m²",0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,1,1,Casa,Los angeles,489000000
+3,4,3,364 m²,364 m²,5,Excelente,más de 30 años,No definida,"$ 2.884.615,38*m²",0,1,0,0,1,0,0,0,1,1,1,1,0,1,0,0,0,0,Apartamento,Niza,1050000000
+3,2,1,58 m²,58 m²,3,Excelente,menor a 1 año,$ 70.000 COP,"$ 4.827.586,21*m²",0,0,0,0,0,1,0,1,0,1,1,1,1,0,0,0,0,0,Apartamento,Florencia,280000000
+4,3,2,130 m²,0 m²,5,Excelente,16 a 30 años,$ 600.000 COP,"$ 4.307.692,31*m²",1,1,1,1,0,0,1,0,1,1,1,1,0,0,0,0,0,0,Apartamento,Puente largo,560000000
+2,1,1,42 m²,42 m²,3,No definida,9 a 15 años,$ 136.000 COP,"$ 4.214.285,71*m²",0,1,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,Apartamento,Suba,177000000
+9,4,2,285 m²,250 m²,3,No definida,más de 30 años,No definida,"$ 2.052.631,58*m²",0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,Casa,Florencia,585000000
+3,2,1,74 m²,74 m²,4,No definida,9 a 15 años,$ 320.000 COP,"$ 7.297.297,3*m²",1,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,Apartamento,La Felicidad,540000000
+2,1,0,43 m²,43 m²,2,Excelente,1 a 8 años,$ 60.000 COP,"$ 2.790.697,67*m²",1,0,0,0,0,1,0,0,1,0,1,1,0,1,1,0,0,0,Apartamento,El tintal,120000000
+4,2,1,75 m²,58 m²,3,No definida,1 a 8 años,$ 200.000 COP,"$ 4.666.666,67*m²",1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,1,Apartamento,Nuevo Techo,350000000
+2,3,2,104 m²,128 m²,6,No definida,16 a 30 años,$ 686.500 COP,"$ 8.461.538,46*m²",1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,Apartamento,Chicó,880000000
+5,4,1,144 m²,144 m²,3,Bueno,más de 30 años,$ 30.000 COP,"$ 4.152.777,78*m²",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,Apartamento,Pardo rubio,598000000
+2,1,1,91 m²,91 m²,4,No definida,más de 30 años,$ 448.000 COP,"$ 3.274.725,27*m²",0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,1,0,1,Apartamento,Sucre,298000000
+3,3,3,250 m²,240 m²,6,Remodelado,más de 30 años,$ 1.700.000 COP,$ 6.600.000*m²,1,0,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1,Apartamento,Los rosales,1650000000
+2,3,2,72 m²,72 m²,6,No definida,menor a 1 año,$ 500.000 COP,"$ 9.569.444,44*m²",1,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,Apartamento,San patricio,689000000
+3,2,0,67 m²,0 m²,3,No definida,9 a 15 años,$ 250.000 COP,"$ 3.880.597,01*m²",1,0,1,1,0,1,1,0,0,0,1,1,0,0,0,1,0,0,Apartamento,Britalia,260000000
+No definida,No definida,0,680 m²,680 m²,4,Bueno,más de 30 años,No definida,"$ 7.352.941,18*m²",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Casa,Quinta Camacho,5000000000
+3,3,0,106 m²,106 m²,3,Bueno,16 a 30 años,$ 1 COP,"$ 2.452.830,19*m²",0,0,0,0,1,0,0,0,0,1,0,1,1,1,0,0,1,0,Casa,Gran granada,260000000
+3,3,1,78 m²,0 m²,4,No definida,16 a 30 años,$ 245.000 COP,"$ 4.423.076,92*m²",1,1,1,0,0,0,0,0,1,0,1,1,0,0,0,1,0,1,Apartamento,Villas De Aranjuez,345000000
+3,2,1,65 m²,65 m²,4,No definida,9 a 15 años,$ 404.000 COP,$ 4.000.000*m²,0,1,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,Apartamento,Victoria norte,260000000
+2,2,2,76 m²,0 m²,5,No definida,más de 30 años,$ 370.000 COP,"$ 7.171.052,63*m²",0,0,0,1,1,0,0,1,1,1,1,1,1,0,0,1,0,1,Apartamento,Bella suiza,545000000
+2,2,1,60 m²,60 m²,4,No definida,16 a 30 años,$ 380.000 COP,"$ 5.643.333,33*m²",1,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,1,Apartamento,Bosque calderon,338600000
+4,3,2,220 m²,220 m²,3,Excelente,más de 30 años,No definida,"$ 3.409.090,91*m²",0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,1,Casa,Villa luz,750000000
+2,2,1,53 m²,0 m²,4,No definida,16 a 30 años,$ 247.000 COP,"$ 4.905.660,38*m²",0,1,1,1,0,0,1,0,0,0,1,1,0,0,0,0,0,1,Apartamento,Villas del mediterraneo,260000000
+4,3,1,105 m²,105 m²,4,No definida,16 a 30 años,$ 235.000 COP,"$ 3.428.571,43*m²",0,1,1,1,0,1,1,0,1,0,1,0,0,0,0,0,0,0,Casa,Usaquén,360000000
+3,2,1,117 m²,115 m²,6,No definida,más de 30 años,$ 680.000 COP,"$ 5.470.085,47*m²",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Apartamento,Chicó Reservado,640000000
+2,2,2,73 m²,73 m²,4,No definida,1 a 8 años,$ 510.000 COP,"$ 6.574.657,53*m²",1,1,1,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,Apartamento,Centro comercial Titán Plaza,479950000
+3,2,1,67 m²,67 m²,4,No definida,9 a 15 años,$ 270.000 COP,"$ 5.671.641,79*m²",1,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,Apartamento,Mazuren,380000000
+5,5,4,300 m²,300 m²,6,Excelente,16 a 30 años,$ 1.550.000 COP,"$ 4.833.333,33*m²",1,0,1,1,0,1,1,0,1,1,1,1,0,0,0,0,0,0,Apartamento,Rincon del chico,1450000000
+4,3,1,120 m²,0 m²,4,Excelente,16 a 30 años,$ 300.000 COP,"$ 3.491.666,67*m²",1,1,0,0,0,1,0,0,1,1,1,1,0,1,0,0,0,0,Casa,Pradera Norte,419000000
+3,2,1,57 m²,57 m²,5,Bueno,más de 30 años,$ 336.000 COP,"$ 4.719.298,25*m²",0,0,0,1,0,1,0,0,1,0,1,1,0,0,0,0,0,1,Apartamento,Bella Suiza,269000000
+4,2,1,88 m²,0 m²,4,No definida,No definida,No definida,"$ 3.284.090,91*m²",0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,1,Apartamento,Cedro Golf,289000000
+5,2,5,265 m²,0 m²,6,No definida,16 a 30 años,$ 770.000 COP,"$ 4.524.528,3*m²",0,1,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,Casa,Suba cerros,1199000000
+3,2,1,75 m²,0 m²,4,No definida,16 a 30 años,$ 510.000 COP,"$ 3.866.666,67*m²",1,1,1,1,0,0,0,0,1,0,0,1,0,0,0,1,1,1,Apartamento,Belmira,290000000
+3,3,1,97 m²,97 m²,5,No definida,16 a 30 años,$ 540.000 COP,"$ 6.237.113,4*m²",1,1,1,1,0,1,1,0,1,0,1,1,0,0,0,0,0,0,Apartamento,Nuevo Campin,605000000
+3,3,3,174 m²,150 m²,4,No definida,menor a 1 año,$ 650.000 COP,"$ 7.356.321,84*m²",1,1,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,Apartamento,Andes norte,1280000000
+3,2,1,63 m²,63 m²,4,No definida,9 a 15 años,$ 360.000 COP,"$ 5.539.682,54*m²",1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Apartamento,Teusaquillo,349000000
+3,2,1,67 m²,0 m²,4,Excelente,9 a 15 años,$ 250.000 COP,$ 5.000.000*m²,0,1,1,0,0,1,1,0,1,1,1,1,0,0,0,0,0,0,Apartamento,Cantalejo,335000000
+2,2,2,67 m²,67 m²,6,No definida,No definida,$ 528.000 COP,"$ 7.014.925,37*m²",1,1,1,1,1,0,1,0,1,0,1,1,0,1,0,1,0,1,Apartamento,Santa barbara,470000000
+4,3,1,103 m²,103 m²,3,Excelente,1 a 8 años,No definida,"$ 3.388.349,51*m²",0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,1,0,Casa,Lombardia,349000000
+7,3,1,"195,31 m²",0 m²,3,Bueno,más de 30 años,No definida,"$ 2.636.833,75*m²",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,Casa,San Fernando,515000000
+3,2,1,57 m²,57 m²,4,No definida,16 a 30 años,$ 140.000 COP,"$ 5.929.824,56*m²",1,1,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,Apartamento,San miguel,338000000
+1,1,0,"15,27 m²",0 m²,4,No definida,menor a 1 año,$ 170.000 COP,"$ 12.115.258,68*m²",1,0,1,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,Apartamento,Chapinero Alto,185000000
+6,4,2,243 m²,230 m²,5,Bueno,más de 30 años,No definida,"$ 4.814.814,81*m²",0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,1,0,1,Casa,Pasadena,1170000000
+4,4,2,280 m²,280 m²,6,Excelente,16 a 30 años,$ 1.400.000 COP,"$ 6.428.571,43*m²",1,1,0,1,0,0,0,0,1,1,1,1,0,1,0,1,0,1,Apartamento,Centro Comercial Andino,1800000000
+4,3,2,105 m²,95 m²,4,Excelente,16 a 30 años,$ 520.000 COP,"$ 4.476.190,48*m²",1,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,Apartamento,Nicolas de federman,470000000
+3,2,2,93 m²,93 m²,6,No definida,16 a 30 años,$ 800.000 COP,"$ 8.064.516,13*m²",0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,Apartamento,Los Rosales,750000000
+3,4,2,"191,43 m²","143,27 m²",6,No definida,1 a 8 años,No definida,"$ 6.164.133,1*m²",1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,Apartamento,Bosque de pinos,1180000000
+3,2,2,89 m²,89 m²,5,No definida,9 a 15 años,$ 460.000 COP,"$ 4.775.280,9*m²",1,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,Apartamento,Colina Campestre,425000000
+3,2,1,98 m²,98 m²,4,No definida,16 a 30 años,$ 378.200 COP,"$ 4.183.673,47*m²",1,0,0,1,0,0,0,0,1,0,1,0,0,1,0,1,0,0,Apartamento,El campin,410000000
+2,2,1,69 m²,0 m²,4,No definida,1 a 8 años,$ 470.689 COP,"$ 8.478.260,87*m²",1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,Apartamento,Chapinero Alto,585000000
+3,2,1,69 m²,0 m²,4,No definida,16 a 30 años,$ 342.300 COP,"$ 5.130.434,78*m²",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,Apartamento,El Plan,354000000
+3,2,1,88 m²,88 m²,4,No definida,9 a 15 años,$ 327.700 COP,"$ 4.977.272,73*m²",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,Apartamento,Fontibón,438000000
+2,1,0,49 m²,49 m²,2,No definida,16 a 30 años,$ 80.000 COP,"$ 3.265.306,12*m²",0,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,Apartamento,Kennedy,160000000
+3,2,0,59 m²,59 m²,2,No definida,16 a 30 años,$ 48.000 COP,"$ 2.593.220,34*m²",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Casa,Fontibón,153000000
+4,4,2,"186,91 m²","186,91 m²",5,No definida,más de 30 años,$ 945.000 COP,"$ 6.687.710,66*m²",1,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,Apartamento,Canodromo,1250000000
+1,1,0,45 m²,45 m²,4,No definida,16 a 30 años,$ 303.000 COP,"$ 4.155.555,56*m²",0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Apartamento,Victoria Norte,187000000
+3,3,2,106 m²,98 m²,4,No definida,menor a 1 año,$ 460.000 COP,"$ 7.264.150,94*m²",1,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,Apartamento,Andes norte,770000000
+3,4,3,235 m²,165 m²,6,No definida,1 a 8 años,$ 1.050.000.000 COP,"$ 6.382.978,72*m²",1,1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,Apartamento,San patricio,1500000000
+4,4,2,239 m²,239 m²,4,Bueno,16 a 30 años,$ 782.000 COP,"$ 3.138.075,31*m²",1,0,0,0,0,1,0,0,1,1,1,1,1,0,0,0,0,1,Apartamento,Cedritos,750000000
+3,3,1,87 m²,87 m²,4,No definida,9 a 15 años,$ 339.000 COP,"$ 5.551.724,14*m²",1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Apartamento,Salitre,483000000
+2,2,2,109 m²,0 m²,6,No definida,16 a 30 años,$ 687.000 COP,"$ 4.339.449,54*m²",1,0,0,1,0,1,0,0,0,0,1,1,0,1,0,0,0,1,Apartamento,Chicó,473000000
+3,2,1,82 m²,82 m²,4,No definida,1 a 8 años,$ 364.000 COP,"$ 5.890.243,9*m²",1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Apartamento,Capellania,483000000
+4,2,1,72 m²,72 m²,4,No definida,16 a 30 años,$ 193.000 COP,"$ 4.611.111,11*m²",0,1,0,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,Casa,Bolivia,332000000
+4,6,4,375 m²,375 m²,4,Excelente,1 a 8 años,$ 417.000 COP,"$ 4.266.666,67*m²",0,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,Casa,Niza norte,1600000000
+3,2,1,72 m²,72 m²,4,No definida,1 a 8 años,$ 300.000 COP,"$ 5.166.666,67*m²",1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,Apartamento,Kennedy,372000000
+3,2,1,65 m²,65 m²,4,No definida,9 a 15 años,$ 261.800 COP,"$ 4.292.307,69*m²",1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Apartamento,Engativá,279000000
+3,1,0,62 m²,0 m²,2,No definida,16 a 30 años,$ 73.000 COP,"$ 2.370.967,74*m²",0,1,0,1,0,1,0,0,0,0,0,0,0,1,1,1,0,0,Casa,Bilbao,147000000
+4,3,1,120 m²,116 m²,4,Bueno,16 a 30 años,$ 440.000 COP,"$ 3.458.333,33*m²",0,1,1,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0,Casa,Santa cecilia,415000000
+2,1,0,45 m²,45 m²,2,No definida,9 a 15 años,$ 58.000 COP,"$ 2.422.222,22*m²",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Apartamento,El Porvenir,109000000
+2,1,0,44 m²,0 m²,2,No definida,1 a 8 años,$ 71.000 COP,"$ 2.840.909,09*m²",0,0,0,1,0,1,0,0,0,0,0,1,0,1,1,0,0,0,Apartamento,Bosa,125000000
+3,2,1,58 m²,58 m²,3,No definida,menor a 1 año,$ 346.000 COP,"$ 4.344.827,59*m²",0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,Apartamento,El Vergel,252000000
+2,2,1,53 m²,53 m²,3,No definida,1 a 8 años,$ 175.000 COP,"$ 4.150.943,4*m²",1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,Apartamento,Tuna Baja,220000000
+2,2,1,"50,71 m²","49,93 m²",3,No definida,9 a 15 años,$ 203.000 COP,"$ 4.535.594,56*m²",0,0,1,1,0,0,0,0,1,0,1,1,0,0,0,1,0,0,Apartamento,Suba la Campiña,230000000
+2,2,1,56 m²,56 m²,4,No definida,9 a 15 años,$ 380.000 COP,"$ 6.357.142,86*m²",0,1,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,1,Apartamento,San Luis,356000000
+3,2,1,54 m²,54 m²,3,No definida,9 a 15 años,$ 257.000 COP,"$ 6.240.740,74*m²",0,1,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,Apartamento,Quesada,337000000
+2,3,1,88 m²,88 m²,4,No definida,9 a 15 años,No definida,"$ 5.340.909,09*m²",0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,Apartamento,Cedritos,470000000
+10,5,2,334 m²,0 m²,3,No definida,16 a 30 años,No definida,"$ 3.742.514,97*m²",0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,Casa,Montes,1250000000
+3,3,2,"152,8 m²",153 m²,6,Excelente,más de 30 años,$ 800.000 COP,"$ 8.507.853,4*m²",1,1,1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,Apartamento,El Nogal,1300000000
+6,6,3,325 m²,0 m²,5,No definida,No definida,$ 210.000 COP,"$ 5.230.769,23*m²",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Casa,Niza sur,1700000000
+3,2,1,75 m²,75 m²,4,No definida,1 a 8 años,$ 452.000 COP,"$ 4.813.333,33*m²",1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,Apartamento,El Encanto,361000000
+2,1,0,51 m²,51 m²,3,No definida,1 a 8 años,$ 95.000 COP,"$ 2.823.529,41*m²",1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Apartamento,Kennedy,144000000
+4,5,3,262 m²,0 m²,6,No definida,16 a 30 años,$ 1.250.000 COP,"$ 7.099.236,64*m²",1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,Apartamento,Bosque Medina,1860000000
+9,5,0,530 m²,530 m²,4,No definida,más de 30 años,No definida,"$ 3.773.584,91*m²",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Casa,Marly,2000000000
+3,2,0,"50,17 m²","44,14 m²",2,No definida,menor a 1 año,No definida,"$ 3.388.479,17*m²",1,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,Apartamento,Corredor ferreo del sur,170000000
+2,2,1,59 m²,0 m²,4,No definida,9 a 15 años,$ 246.000 COP,"$ 5.932.203,39*m²",1,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,Apartamento,Campin occidental,350000000
+5,3,0,131 m²,0 m²,1,Remodelado,más de 30 años,No definida,"$ 4.732.824,43*m²",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,Casa,La Candelaria,620000000
+2,1,0,"45,83 m²","40,33 m²",2,No definida,menor a 1 año,$ 122.000 COP,"$ 3.796.639,76*m²",1,1,1,1,0,1,0,1,1,0,1,1,0,0,0,1,0,0,Apartamento,Bosa Porvenir,174000000
+1,1,0,39 m²,34 m²,3,Excelente,menor a 1 año,$ 125.000 COP,"$ 4.871.794,87*m²",1,1,1,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,Apartamento,Nueva zelandia,190000000
+2,1,0,45 m²,45 m²,3,No definida,9 a 15 años,$ 117.000 COP,"$ 3.844.444,44*m²",1,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,Apartamento,Suba,173000000
+5,6,4,468 m²,468 m²,6,Bueno,16 a 30 años,$ 3.200.000 COP,"$ 8.525.641,03*m²",1,1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,Apartamento,Santa Bárbara Alta,3990000000
+6,2,3,166 m²,159 m²,3,No definida,más de 30 años,No definida,"$ 2.349.397,59*m²",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Casa,Madelena,390000000
+3,3,1,"80,6 m²",0 m²,4,No definida,16 a 30 años,$ 230.000 COP,"$ 4.094.292,8*m²",0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,Apartamento,Mirandela,330000000
+4,2,1,75 m²,75 m²,3,No definida,No definida,$ 190.000 COP,"$ 4.666.666,67*m²",1,0,1,1,0,1,1,0,1,1,1,1,0,0,0,0,0,1,Apartamento,Castilla,350000000
+3,2,2,97 m²,0 m²,4,No definida,9 a 15 años,$ 272.000 COP,"$ 6.175.257,73*m²",1,1,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,Apartamento,Pontevedra,599000000
+4,4,2,138 m²,0 m²,5,Excelente,16 a 30 años,$ 160.000 COP,"$ 3.985.507,25*m²",0,0,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,Apartamento,El Contador,550000000
+4,3,2,136 m²,130 m²,6,Bueno,16 a 30 años,$ 780.000 COP,"$ 4.522.058,82*m²",1,1,1,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,Apartamento,Santa Bárbara,615000000
+2,1,0,45 m²,45 m²,3,No definida,9 a 15 años,$ 126.000 COP,$ 3.600.000*m²,0,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,Apartamento,Kennedy,162000000
+2,3,2,82 m²,75 m²,5,No definida,9 a 15 años,$ 559.000 COP,"$ 7.256.097,56*m²",1,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,Apartamento,Nicolas de federman,595000000
+3,4,2,190 m²,184 m²,6,No definida,9 a 15 años,$ 1.400.000 COP,"$ 8.157.894,74*m²",1,1,1,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,Apartamento,Santa Paula,1550000000
+3,2,0,58 m²,55 m²,3,Bueno,9 a 15 años,$ 110.000 COP,"$ 3.963.793,1*m²",0,1,1,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,Apartamento,Villa alsacia,229900000
+3,1,1,49 m²,49 m²,3,No definida,1 a 8 años,$ 89.500 COP,"$ 4.469.387,76*m²",1,0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,Apartamento,Ciudad Bolívar,219000000
+3,4,2,99 m²,89 m²,5,Bueno,16 a 30 años,$ 450.000 COP,"$ 5.555.555,56*m²",1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,1,Apartamento,Nicolás de Federmán,550000000
+2,2,1,72 m²,69 m²,4,No definida,16 a 30 años,$ 230.000 COP,"$ 4.236.111,11*m²",0,1,1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,Apartamento,Mazuren,305000000
+2,3,2,141 m²,0 m²,6,No definida,9 a 15 años,$ 1.112.000 COP,"$ 7.794.326,24*m²",1,1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,Apartamento,Santa Bárbara,1099000000
+4,3,1,100 m²,0 m²,4,No definida,16 a 30 años,$ 330.000 COP,$ 3.890.000*m²,0,1,1,1,0,1,0,0,1,1,1,1,0,0,0,0,0,0,Casa,Pradera Norte,389000000
+2,2,2,142 m²,0 m²,6,No definida,9 a 15 años,$ 1.349.000 COP,"$ 9.154.929,58*m²",1,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Apartamento,Chico,1300000000
+8,5,0,70 m²,70 m²,2,No definida,más de 30 años,No definida,"$ 4.285.714,29*m²",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,Casa,Ciudad bachue i etapa,300000000
+3,5,2,158 m²,158 m²,6,No definida,9 a 15 años,$ 1.250.000 COP,"$ 8.227.848,1*m²",1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,Apartamento,Los Rosales,1300000000
+2,1,0,58 m²,52 m²,4,No definida,16 a 30 años,$ 215.000 COP,"$ 4.310.344,83*m²",0,1,0,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,Apartamento,Cedro narvaez,250000000
+9,5,1,250 m²,0 m²,6,No definida,más de 30 años,$ 100.000 COP,$ 6.760.000*m²,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,1,Casa,Usaquen,1690000000
+2,2,0,45 m²,0 m²,3,No definida,1 a 8 años,$ 170.000 COP,$ 5.000.000*m²,1,1,1,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,Apartamento,Modelia,225000000
+3,4,2,129 m²,0 m²,4,No definida,16 a 30 años,$ 698.000 COP,"$ 5.271.317,83*m²",1,1,1,1,1,0,1,0,0,1,1,1,0,1,0,0,0,0,Apartamento,El contador,680000000
+4,3,2,181 m²,0 m²,3,No definida,más de 30 años,No definida,"$ 3.425.414,36*m²",0,1,0,0,1,1,0,0,0,0,0,1,0,1,0,1,0,0,Casa,Castilla,620000000
+3,3,2,113 m²,0 m²,5,No definida,9 a 15 años,$ 783.000 COP,"$ 5.486.725,66*m²",1,1,1,1,0,1,1,0,1,1,1,0,0,0,0,0,0,0,Apartamento,Bella Suiza,620000000
+3,2,1,55 m²,0 m²,3,Excelente,1 a 8 años,$ 196.000 COP,"$ 4.181.818,18*m²",1,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,Apartamento,Nueva Castilla,230000000
+3,3,2,90 m²,0 m²,4,No definida,No definida,$ 380.000 COP,"$ 4.766.666,67*m²",1,1,1,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,Apartamento,Cedro bolivar,429000000
+3,3,2,113 m²,0 m²,5,Excelente,9 a 15 años,$ 787.000 COP,"$ 5.486.725,66*m²",1,1,1,1,0,1,1,0,1,1,1,1,1,0,0,0,0,0,Apartamento,Bella suiza,620000000
+3,4,2,185 m²,0 m²,6,No definida,No definida,$ 940.000 COP,"$ 7.291.891,89*m²",1,1,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,Apartamento,La cabrera,1349000000
+3,3,2,112 m²,105 m²,4,Excelente,9 a 15 años,$ 494.000 COP,"$ 5.267.857,14*m²",1,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,Apartamento,Cedro bolivar,590000000
+3,3,2,137 m²,137 m²,5,Bueno,1 a 8 años,$ 916.100 COP,"$ 7.664.233,58*m²",1,1,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,Apartamento,santa BARBARA,1050000000
+1,1,0,33 m²,33 m²,4,No definida,16 a 30 años,$ 356.000 COP,"$ 6.666.666,67*m²",1,1,0,1,1,0,0,1,0,0,1,1,0,1,1,0,0,0,Apartamento,Galerias,220000000
+3,2,0,60 m²,0 m²,4,No definida,No definida,$ 220.000 COP,"$ 4.333.333,33*m²",1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,Apartamento,Villas De Aranjuez,260000000
+3,4,2,191 m²,0 m²,4,Excelente,9 a 15 años,$ 650.000 COP,"$ 4.345.549,74*m²",1,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,Apartamento,Cedro bolivar,830000000
+3,2,1,96 m²,96 m²,2,Excelente,1 a 8 años,No definida,"$ 2.656.249,99*m²",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,Casa,Suba,254999999
+3,3,2,136 m²,136 m²,6,Excelente,1 a 8 años,$ 1.200.000 COP,"$ 7.279.411,76*m²",1,1,1,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,Apartamento,Chico norte,990000000
+5,2,1,122 m²,122 m²,2,No definida,más de 30 años,No definida,"$ 3.360.655,74*m²",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,Casa,Bosa Los Naranjos,410000000
+2,1,0,42 m²,0 m²,2,Bueno,9 a 15 años,$ 100.000 COP,"$ 2.976.190,48*m²",0,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,0,0,Apartamento,Tierrabuena reservado 1 y 2,125000000
+5,2,0,131 m²,0 m²,1,No definida,más de 30 años,No definida,"$ 4.732.824,43*m²",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Casa,La Candelaria,620000000
+3,4,2,139 m²,130 m²,5,No definida,16 a 30 años,$ 473.000 COP,"$ 4.964.028,78*m²",1,1,1,1,0,1,1,0,1,1,0,1,0,0,0,0,0,1,Apartamento,Victoria norte,690000000
+3,2,1,83 m²,80 m²,3,No definida,1 a 8 años,$ 50.000 COP,"$ 3.855.421,69*m²",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,Apartamento,Puente Aranda,320000000
+3,4,2,142 m²,0 m²,5,No definida,más de 30 años,$ 650.000 COP,"$ 5.809.859,15*m²",0,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,Casa,Lisboa Usaquén,825000000
+3,5,3,257 m²,0 m²,6,No definida,16 a 30 años,$ 1.549.900 COP,"$ 6.809.338,52*m²",1,1,1,1,0,1,1,0,1,1,1,0,0,1,0,0,0,0,Apartamento,Santa Paula,1750000000
+3,4,2,129 m²,0 m²,5,Excelente,16 a 30 años,$ 698.000 COP,"$ 5.271.317,83*m²",1,1,1,1,0,1,1,0,1,1,1,1,0,1,0,0,0,0,Apartamento,Cedritos,680000000
+3,2,1,96 m²,0 m²,4,No definida,1 a 8 años,$ 290.000 COP,"$ 5.833.333,33*m²",1,1,0,0,0,0,1,0,1,0,1,1,0,0,0,1,0,0,Apartamento,Villa alsacia,560000000
+3,3,2,105 m²,0 m²,4,No definida,9 a 15 años,$ 400.000 COP,"$ 5.666.666,67*m²",1,1,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,Apartamento,Caobos salazar,595000000
